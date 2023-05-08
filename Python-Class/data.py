@@ -25,26 +25,26 @@ for fruit in fruits:
     print(fruit)
 
 # Create and display the dictionary
-chris = {"name": "Chris", "city": "Seattle", "cake": "Chocolate"}
-print("Dictionary:", chris)
+chris_dict = {"name": "Chris", "city": "Seattle", "cake": "Chocolate"}
+print("Dictionary:", chris_dict)
 
-# Delete the entry for “cake” by using the pop() method
-chris.pop("cake")
-print("Dictionary after deleting 'cake':", chris)
+# Delete entry for “cake”
+chris_dict.pop("cake")
+print("Dictionary after deleting 'cake':", chris_dict)
 
-# Add an entry for “fruit” with “Mango” and display the dictionary
-chris["fruit"] = "Mango"
-print("Dictionary after adding 'fruit':", chris)
+# Add an entry for “fruit” with “Mango”
+chris_dict["fruit"] = "Mango"
+print("Dictionary after adding 'fruit':", chris_dict)
 
 # Display the dictionary keys and values
-print("Dictionary keys:", chris.keys())
-print("Dictionary values:", chris.values())
+print("Dictionary keys:", chris_dict.keys())
+print("Dictionary values:", chris_dict.values())
 
-# Display whether or not “cake” is a key in the dictionary (i.e. False) (now)
-print("Is 'cake' a key in the dictionary?", "cake" in chris)
+# Display whether or not “cake” is a key in the dictionary
+print("Is 'cake' a key in the dictionary?", "cake" in chris_dict)
 
 # Display whether or not “Mango” is a value in the dictionary
-print("Is 'Mango' a value in the dictionary?", "Mango" in chris.values())
+print("Is 'Mango' a value in the dictionary?", "Mango" in chris_dict.values())
 
 # Create sets s2, s3 and s4
 s2 = set(range(0, 21, 2))
