@@ -1,0 +1,94 @@
+p1.1
+              XXXX
+p2.1
+             X    XX
+p1.2
+            X  ***  X                XXXXX
+p2.2
+           X  *****  X            XXX     XX
+p1.3
+        XXXX ******* XXX      XXXX          XX
+p2.3
+      XX   X ******  XXXXXXXXX                XX XXX
+p1.4
+    XX      X ****  X                           X** X
+p2.4
+   X        XX    XX     X                      X***X
+p1.5
+  X         //XXXX       X                      XXXX
+p2.5
+ X         //   X                             XX
+p1.6
+X         //    X          XXXXXXXXXXXXXXXXXX/
+p2.6
+X     XXX//    X          X
+p1.7
+X    X   X     X         X
+p2.7
+X    X    X    X        X
+p1.8
+ X   X    X    X        X                    XX
+p2.8
+ X    X   X    X        X                 XXX  XX
+p1.9
+  X    XXX      X        X               X  X X  X
+p2.9
+  X             X         X              XX X  XXXX
+p1.10
+   X             X         XXXXXXXX\     XX   XX  X
+p2.10
+    XX            XX              X     X    X  XX
+p1.11
+      XX            XXXX   XXXXXX/     X     XXXX
+p2.11
+        XXX             XX***         X     X
+p1.12
+           XXXXXXXXXXXXX *   *       X     X
+p2.12
+                        *---* X     X     X
+p1.13
+                       *-* *   XXX X     X
+p2.13
+                       *- *       XXX   X
+p1.14
+                      *- *X          XXX
+p2.14
+                      *- *X  X          XXX
+p1.15
+                     *- *X    X            XX
+p2.15
+                     *- *XX    X             X
+p1.16
+                    *  *X* X    X             X
+p2.16
+                    *  *X * X    X             X
+p1.17
+                   *  * X**  X   XXXX          X
+p2.17
+                   *  * X**  XX     X          X
+p1.18
+                  *  ** X** X     XX          X
+p2.18
+                  *  **  X*  XXX   X         X
+p1.19
+                 *  **    XX   XXXX       XXX
+p2.19
+                *  * *      XXXX      X     X
+p1.20
+               *   * *          X     X     X
+p2.20
+ =======*******   * *           X     X      XXXXXXXX\
+p1.21
+        *         * *      /XXXXX      XXXXXXXX\      )
+p2.21
+   =====**********  *     X                     )  \  )
+p1.22
+     ====*         *     X               \  \   )XXXXX
+p2.22
+=========**********       XXXXXXXXXXXXXXXXXXXXXX
+p1.23
+
+p2.23
+
+p1.24
+                   CURSE YOU, RED BARON!
